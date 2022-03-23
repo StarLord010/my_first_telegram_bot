@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarLord010/my_first_telegram_bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StarLord010/my_first_telegram_bot/issues"
+  },
+  "homepage": "https://github.com/StarLord010/my_first_telegram_bot#readme",
+  "description": ""
+}
